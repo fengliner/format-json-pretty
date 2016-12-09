@@ -1,19 +1,20 @@
 {
-  "name": "format-json",
+  "name": "format-json-pretty",
   "version": "1.0.0",
-  "description": "format object to json",
+  "description": "format object to pretty json",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
+  "keywords": ["format", "json", "pretty"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/fengliner/format-json"
+    "url": "https://github.com/fengliner/format-json-pretty"
   },
   "author": "xubensheng <http://fengliner.github.io>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fengliner/format-json/issues"
+    "url": "https://github.com/fengliner/format-json-pretty/issues"
   },
   "devDependencies": {
     "chai": "^3.5.0",

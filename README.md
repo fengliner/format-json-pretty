@@ -4,7 +4,7 @@ format object to json
 
 ## INSTALL
 
-  npm install format-json
+  npm install format-json-pretty
 
 ## TEST
 
@@ -13,7 +13,7 @@ format object to json
 ## DEMO
 
 ```js
-var formatJson = require('format-json');
+var formatJson = require('format-json-pretty');
 
 var user = {
   id: 1,
