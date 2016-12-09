@@ -1,6 +1,6 @@
-# format-json
+# format-json-pretty
 
-format object to json
+format object to pretty json
 
 ## INSTALL
 
