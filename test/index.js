@@ -6,7 +6,7 @@ const expect = require('chai').expect;
 describe('formatJson', function() {
   describe('#formatJson', function() {
     it('should get a standard format json string', function() {
-      var user = {
+      let user = {
         id: 1,
         name: 'fengliner',
         color: {

@@ -1,6 +1,6 @@
 {
   "name": "format-json-pretty",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "format object to pretty json",
   "main": "index.js",
   "scripts": {

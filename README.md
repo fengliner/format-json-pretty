@@ -2,6 +2,8 @@
 
 format object to pretty json
 
+**update: Support for defining the number of indent spaces. The default is 2**
+
 ## INSTALL
 
   npm install format-json-pretty
@@ -40,5 +42,22 @@ console.log(formatJson(user));
     "name": "fengliner"
   }]
 }
- */
+*/
+
+ console.log(foramtJson(user, 4));
+
+ /**
+ {
+    "id": 1,
+    "name": "fengliner",
+    "color": {
+        "id": 1,
+        "name": "fengliner"
+    },
+    "font": [{
+        "id": 1,
+        "name": "fengliner"
+    }]
+}
+*/
 ```
