@@ -1,0 +1,22 @@
+{
+  "name": "format-json",
+  "version": "1.0.0",
+  "description": "format object to json",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fengliner/format-json"
+  },
+  "author": "xubensheng <http://fengliner.github.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fengliner/format-json/issues"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.1"
+  }
+}
